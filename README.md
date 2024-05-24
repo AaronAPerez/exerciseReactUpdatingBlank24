@@ -15,5 +15,5 @@
 <br>
 
 
-<b>Peer Reviewed by:</b> <br>
-<b>Comments:</b>   <br>
+<b>Peer Reviewed by:</b> David Jimenez <br>
+<b>Comments:</b>   I see that all of your buttons work with updating your various components.  The change name works with changing from David to Aaron.  The pizza tsx updates the amount of cheese and your card updates the first product which you've titled as Bacon in your cart.  I really like how your Cart has a populating list of the items in your cart.  I think I wish to add this to my project. <br>
